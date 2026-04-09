@@ -33,35 +33,32 @@
 
 ### Software Engineering
 
-- Python: 90%
-- JavaScript: 80%
-- Node.js and Express: 78%
-- React: 75%
-- Flutter: 70%
-- Django: 76%
-- MySQL: 74%
-- Git and GitHub: 85%
-- Postman and API Testing: 82%
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 90%" />
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript 80%" />
+  <img src="https://img.shields.io/badge/Node.js-78%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 78%" />
+  <img src="https://img.shields.io/badge/Express-78%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 78%" />
+  <img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React 75%" />
+  <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter 70%" />
+  <img src="https://img.shields.io/badge/Django-76%25-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django 76%" />
+  <img src="https://img.shields.io/badge/MySQL-74%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 74%" />
+  <img src="https://img.shields.io/badge/Git%20and%20GitHub-85%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub 85%" />
+  <img src="https://img.shields.io/badge/Postman-82%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman 82%" />
+</p>
 
 ### Machine Learning Stack
 
-- NumPy and Pandas: 84%
-- Scikit-learn: 80%
-- TensorFlow: 72%
-- PyTorch: 68%
-- Jupyter Notebook: 88%
-- Data Visualization (Matplotlib/Seaborn): 78%
-- Model Evaluation and Experiment Tracking: 73%
-
-### Skill Level Bars
-
-```text
-Python                                  90%  [##################--]
-Machine Learning (Scikit-learn/TensorFlow) 76%  [###############-----]
-Backend Development                     80%  [################----]
-Frontend Development                    75%  [###############-----]
-Databases                               74%  [###############-----]
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-84%25-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy 84%" />
+  <img src="https://img.shields.io/badge/Pandas-84%25-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas 84%" />
+  <img src="https://img.shields.io/badge/Scikit--learn-80%25-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn 80%" />
+  <img src="https://img.shields.io/badge/TensorFlow-72%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow 72%" />
+  <img src="https://img.shields.io/badge/PyTorch-68%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch 68%" />
+  <img src="https://img.shields.io/badge/Jupyter-88%25-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter 88%" />
+  <img src="https://img.shields.io/badge/Matplotlib-78%25-11557C?style=for-the-badge" alt="Matplotlib 78%" />
+  <img src="https://img.shields.io/badge/Seaborn-78%25-4C72B0?style=for-the-badge" alt="Seaborn 78%" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-73%25-0EA5E9?style=for-the-badge" alt="Model Evaluation 73%" />
+</p>
 
 ## GitHub Analytics
 
@@ -85,6 +82,4 @@ Databases                               74%  [###############-----]
 - Student Email: p.mugisha@alustudent.com
 - Personal Email: mugishapasco01@gmail.com
 
-<p align="center"><strong>Copyright &#169; 2026</strong></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0ea5e9,100:0f766e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:0ea5e9,100:0f766e&text=Copyright%20%40%202026&fontColor=ffffff&fontSize=24&fontAlignY=75" />
