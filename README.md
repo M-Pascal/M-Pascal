@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f766e,100:0ea5e9&text=Pascal%20Mugisha&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
 
-<h2 align="center">Software Engineering Student Building Practical Solutions for Africa</h2>
+<h2 align="center">Software Engineer | Specializing in Machine Learning</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,11 +29,39 @@
 - Open to collaboration on impactful projects and API-driven products
 - Currently working on rice quality assessment and AI-powered applications
 
-## What I Work With
+## Technologies and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,react,flutter,django,mysql,git,postman&perline=10" alt="languages and tools" />
-</p>
+### Software Engineering
+
+- Python: 90%
+- JavaScript: 80%
+- Node.js and Express: 78%
+- React: 75%
+- Flutter: 70%
+- Django: 76%
+- MySQL: 74%
+- Git and GitHub: 85%
+- Postman and API Testing: 82%
+
+### Machine Learning Stack
+
+- NumPy and Pandas: 84%
+- Scikit-learn: 80%
+- TensorFlow: 72%
+- PyTorch: 68%
+- Jupyter Notebook: 88%
+- Data Visualization (Matplotlib/Seaborn): 78%
+- Model Evaluation and Experiment Tracking: 73%
+
+### Skill Level Bars
+
+```text
+Python                                  90%  [##################--]
+Machine Learning (Scikit-learn/TensorFlow) 76%  [###############-----]
+Backend Development                     80%  [################----]
+Frontend Development                    75%  [###############-----]
+Databases                               74%  [###############-----]
+```
 
 ## GitHub Analytics
 
@@ -56,5 +84,7 @@
 
 - Student Email: p.mugisha@alustudent.com
 - Personal Email: mugishapasco01@gmail.com
+
+<p align="center"><strong>Copyright &#169; 2026</strong></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0ea5e9,100:0f766e" />
