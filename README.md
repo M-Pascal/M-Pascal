@@ -1,81 +1,52 @@
-<h1 align="center">Hi 👋, I'm Pascal Mugisha</h1>
-<h3 align="center">Software Engineering Student | Building Digital Solutions for Africa | Turning Ideas into Impact</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f766e,100:0ea5e9&text=Pascal%20Mugisha&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
 
-- 🌱 I’m currently learning **Machine Learning & Advanced Software Development**
+<h2 align="center">Software Engineering Student Building Practical Solutions for Africa</h2>
 
-- 👨‍💻 All of my projects are available at  
-  👉 https://portifolio-v1-ten.vercel.app/
-
-- 🎯 My mission is to create **technology-driven solutions in education, healthcare, and agriculture across Africa**
-
-- 💬 Ask me about **Web Development, APIs, Databases, and System Design**
-
-- 🚀 Currently working on **Telemedicine Systems & AI-based Projects**
-
-- 📫 How to reach me:  
-  **Student Email:** p.mugisha@alustudent.com  
-  **Personal Email:** mugishapasco01@gmail.com  
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/pascal-mugisha-4415b2218" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://github.com/M-Pascal">
+    <img src="https://komarev.com/ghpvc/?username=M-Pascal&style=for-the-badge&color=0ea5e9" alt="profile views" />
+  </a>
+  <a href="https://portifolio-v1-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/pascal-mugisha-4415b2218">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
 </p>
 
----
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
+- Focused on machine learning and advanced software development
+- Building technology-driven products for education, healthcare, and agriculture
+- Open to collaboration on impactful projects and API-driven products
+- Currently working on rice quality assessment and AI-powered applications
+
+## What I Work With
+
 <p align="left">
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://postman.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,react,flutter,django,mysql,git,postman&perline=10" alt="languages and tools" />
 </p>
 
----
+## GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M-Pascal&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="github stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Pascal&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" /></p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=M-Pascal&theme=transparent&hide_border=true" alt="streak stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" /></p>
+## Current Focus
+
+- Designing resilient backend systems and clean APIs
+- Learning production-grade machine learning workflows
+- Shipping projects that solve real local challenges
+
+## Contact
+
+- Student Email: p.mugisha@alustudent.com
+- Personal Email: mugishapasco01@gmail.com
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0ea5e9,100:0f766e" />
