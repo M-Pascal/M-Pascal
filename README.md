@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="85%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="developer animation" />
+  <img width="85%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding animation" />
 </p>
 
 ## About Me
