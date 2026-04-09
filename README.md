@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img width="85%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
+</p>
+
 ## About Me
 
 - Focused on machine learning and advanced software development
@@ -45,7 +49,7 @@
   <img src="https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=111111" alt="React 75%" />
   <img src="https://img.shields.io/badge/Flutter-70%25-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter 70%" />
   <img src="https://img.shields.io/badge/Django-76%25-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django 76%" />
-  <img src="https://img.shields.io/badge/MySQL-74%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 74%" />
+  <img src="https://img.shields.io/badge/MySQL-83%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 83%" />
   <img src="https://img.shields.io/badge/Git%20and%20GitHub-85%25-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub 85%" />
   <img src="https://img.shields.io/badge/Postman-82%25-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman 82%" />
 </p>
