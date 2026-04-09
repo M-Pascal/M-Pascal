@@ -3,6 +3,14 @@
 <h2 align="center">Software Engineering Student Building Practical Solutions for Africa</h2>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20welcome%20to%20my%20GitHub%20profile.;I%20build%20impactful%20software%20solutions.;Let%27s%20create%20technology%20that%20matters.&center=true&width=700&height=45&color=0F766E&vCenter=true&pause=1200" alt="typing greeting" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://github.com/M-Pascal">
     <img src="https://komarev.com/ghpvc/?username=M-Pascal&style=for-the-badge&color=0ea5e9" alt="profile views" />
   </a>
